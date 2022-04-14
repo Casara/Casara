@@ -6,6 +6,18 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/rodrigo-casara-79830147/" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/-Rodrigo%20Casara-c1387a?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-casara-79830147/"
+      alt="Linkedin Badge"
+    />
+  </a>
+  <a href="mailto:rodrigocasara@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-rodrigocasara@gmail.com-c1387a?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rodrigocasara@gmail.com"
+      alt="Gmail Badge"
+    />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Casara&style=for-the-badge&color=c1387a" alt="Casara" />
 </p>
 
